@@ -1,0 +1,11 @@
+services:
+  rogue-numbers:
+    container_name: rogue-numbers
+    image: rogue-numbers
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - /var/rogue-numbers:/var/rogue-numbers
+    ports:
+      - "3000:3000"

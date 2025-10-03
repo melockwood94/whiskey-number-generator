@@ -1,10 +1,10 @@
-# Rogue Numbers
+# Whiskey Number Generator
 
 ## About The Project
 
 ![Homepage Screenshot](./documentation/screenshot_homepage.png)
 
-Rogue Numbers is a fun little app built for a group of friends as we try to win a bottle of whiskey at our favorite local restaurant. We needed a way to track our guesses and come up with numbers we hadn't tried yet.
+The Whiskey Number Generator is a fun little app built for a group of friends as we try to win a bottle of whiskey at our favorite local restaurant. We needed a way to track our guesses and come up with numbers we hadn't tried yet.
 
 ## Getting Started
 

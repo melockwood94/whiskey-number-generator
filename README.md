@@ -25,7 +25,7 @@ BETTER_AUTH_URL=http://localhost:3000
 URL=http://localhost:3000
 OAUTH_PROVIDERID=rogue-numbers
 OAUTH_CLIENTID=
-OAUTH_=
+OAUTH_CLIENTSECRET=
 OAUTH_DISCOVERYURL=
 ```
 4. Perform database migrations
